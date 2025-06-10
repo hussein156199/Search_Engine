@@ -1,0 +1,15 @@
+angels	doc7: 0  ; doc8: 0  ; doc9: 0  ; 
+antony	doc6: 0  ; doc2: 0  ; doc1: 0  ; 
+brutus	doc4: 0  ; doc2: 1  ; doc1: 1  ; 
+caeser	doc6: 1  ; doc4: 1  ; doc5: 0  ; doc2: 2  ; doc1: 2  ; 
+calpurnia	doc2: 3  ; 
+cleopatra	doc1: 3  ; 
+fear	doc10: 1  ; doc7: 2  ; doc8: 2  ; 
+fools	doc10: 0  ; doc7: 1  ; doc8: 1  ; doc9: 1  ; 
+in	doc10: 2  ; doc7: 3  ; doc8: 3  ; doc9: 2  ; 
+mercy	doc6: 2  ; doc4: 2  ; doc5: 1  ; doc3: 0  ; doc1: 4  ; 
+rush	doc10: 3  ; doc7: 4  ; doc8: 4  ; doc9: 3  ; 
+to	doc10: 4  ; doc7: 5  ; doc8: 5  ; doc9: 4  ; 
+tread	doc10: 5  ; doc7: 6  ; doc8: 6  ; doc9: 5  ; 
+where	doc10: 6  ; doc7: 7  ; doc8: 7  ; doc9: 6  ; 
+worser	doc4: 3  ; doc5: 2  ; doc3: 1  ; doc1: 5  ; 
